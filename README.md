@@ -1,2 +1,0 @@
-# DaC
-Docs as Code
