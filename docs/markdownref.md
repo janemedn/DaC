@@ -108,21 +108,21 @@ ___жирный курсив___
 
 ## Ссылки
 ```
-[Текст ссылки](https://www.example.com)
+[Ссылка на Google](https://www.google.com/)
 ```
 ***Пример:***
 
-[Текст ссылки](https://www.example.com)
+[Ссылка на Google](https://www.google.com/)
 
 ---
 
 ## Изображения
 ```
-![Текст описания](https://www.example.com/image.jpg)
+![Текст описания](https://www.google.com/logos/doodles/2024/celebrating-george-sand-6753651837110245.2-2x.png)
 ```
 ***Пример:***
 
-![Текст описания](https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_720,q_75,w_1400/v1/clients/newyorkcity/Coronavirus_Info_midtown_manhattan_skyline_nyc_3000x2000_364fa9b8-86ce-4f95-907a-4bd8ea32f232.jpg)
+![Текст описания](https://www.google.com/logos/doodles/2024/celebrating-george-sand-6753651837110245.2-2x.png)
 
 ---
 
@@ -294,13 +294,13 @@ Some content
 
 ## Автоматические ссылки
 ```
-<http://example.com/>
+<https://www.google.com/>
 
 <address@example.com>
 ```
 ***Пример***
 
-<http://example.com/>
+<https://www.google.com/>
 
 <address@example.com>
 
