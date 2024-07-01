@@ -4,6 +4,6 @@
 
 ## Содержание
 
-- [Пошаговое руководство по созданию страницы](#)
-- [Справка по Markdown]()
+- [Пошаговое руководство по созданию страницы](https://janemedn.github.io/DaC_newpage/)
+- [Справка по Markdown](https://janemedn.github.io/DaC_markdown/)
   
