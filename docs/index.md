@@ -3,4 +3,4 @@
 Здесь вы найдете пошаговую инструкцию по созданию страницы на GitHub Pages с помощью GitHub на базе ОС Windows, а также справку по синтаксису Markdown.
 ## Содержание
 - [Пошаговое руководство по созданию страницы](https://github.com/janemedn/DaC/blob/6604767f8f8d4475aed70515d35194dcac851b62/docs/creatingpage.md)
-- [Справка по синтаксису Markdown]()
+- [Справка по синтаксису Markdown](https://github.com/janemedn/DaC/blob/24aeb7ffdbd515ef8d0e52b5aa01fa843fc1c6c5/docs/markdownref.md)
